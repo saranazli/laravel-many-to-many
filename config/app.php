@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'laravel-many-to-many'),
+    'name' => env('APP_NAME', 'laravel-one-to-many'),
 
     /*
     |--------------------------------------------------------------------------
